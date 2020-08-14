@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Status Saver</string>
+    <string name="save_successful_message">Yay! Successfully saved to the gallery.</string>
+    <string name="save_error_message">Oh no! We could not save this file. Please try again later.</string>
+    <string name="permission_denied">Oh no! Permission is denied.</string>
+    <string name="permission_denied2">Oh no! Permission is denied permanently.</string>
+    <string name="download">Download</string>
+    <string name="share">Share</string>
+    <string name="rate_us">Rate us</string>
+    <string name="check_out">Check out this application on Google Play Store</string>
+    <string name="app_link">https://play.google.com/store/apps/details?id=com.martiandeveloper.statussaverwhatsapp</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="privacy_policy_link">https://statussaverappforwhatsapp.blogspot.com/p/privacy-policy-martiandeveloper-built.html</string>
+    <string name="banner">ca-app-pub-3531666375863646/7704449918</string>
+    <string name="interstitial">ca-app-pub-3531666375863646/7213495321</string>
+</resources>
